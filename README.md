@@ -7,6 +7,3 @@ Libraries Used:
 1) selenium
 2) urllib.request
 3) ebdriver_manager
-
-
-![1](https://user-images.githubusercontent.com/58854162/86143149-b4c6ff80-bb11-11ea-9193-52ee5e4103d6.png)
