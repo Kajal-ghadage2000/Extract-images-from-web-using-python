@@ -6,4 +6,4 @@ It download 500 images of 2 categories – Woman dress, Woman top.
 Libraries Used:
 1) selenium
 2) urllib.request
-3) ebdriver_manager
+3) webdriver_manager
