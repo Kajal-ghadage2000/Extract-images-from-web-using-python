@@ -1,7 +1,9 @@
-# Extract-images-from-web
+# Extract and Store Images Locally from Web using Python Automation
 
-This is web-scrapper in python that will allow you to collect fashion images from the internet.
-It download 500 images of 2 categories – Woman dress, Woman top.
+This is a web-scrapper in python that will allow you to collect images from the internet.
+It downloads 500 images.
+
+In code change two variables first is the category of images to get download like "Sunflower" and second is No of images to download like "500"
 
 Libraries Used:
 1) selenium
