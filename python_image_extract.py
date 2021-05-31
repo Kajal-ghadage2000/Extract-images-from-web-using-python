@@ -23,7 +23,7 @@ search = browser.find_element_by_name('q')
 
 
 # Given text is put in search box and enter key of keyboard is pressed
-search.send_keys("women top and women dress",Keys.ENTER)
+search.send_keys("sunflower",Keys.ENTER)
 
 
 
